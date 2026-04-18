@@ -66,7 +66,7 @@ SQL was used to:
 ## 📸 Dashboard Preview
 
 ### Sales Dashboard
-![Sales Dashboard](images/sales_dashboard.png)
+![Sales Dashboard](images/Electroni_Sales_Product_Dashboard.PNG)
 
 ### Rental Dashboard
 ![Rental Dashboard](images/rental_dashboard.png)
