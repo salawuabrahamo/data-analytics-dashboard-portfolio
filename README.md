@@ -30,7 +30,7 @@ The goal is to extract insights, identify trends, and support decision-making.
 
 ---
 
-## 🏠 Rental Dashboard Insights
+## 🏠 Real Estate Dashboard Insights
 - Total Listings: 3002  
 - Average Price: ₦125.59M  
 - Median Price: ₦126.23M  
@@ -64,7 +64,7 @@ SQL was used to:
 ### Sales Dashboard
 ![Sales Dashboard](image/Electroni_Sales_Product_Dashboard.PNG)
 
-### Rental Dashboard
+### Real Estate Dashboard
 ![Rental Dashboard](image/Nigerian_Real_Estate_Dashboard.PNG)
 
 ---
