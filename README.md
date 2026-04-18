@@ -66,10 +66,10 @@ SQL was used to:
 ## 📸 Dashboard Preview
 
 ### Sales Dashboard
-![Sales Dashboard](images/Electroni_Sales_Product_Dashboard.PNG)
+![Sales Dashboard](image/Electroni_Sales_Product_Dashboard.PNG)
 
 ### Rental Dashboard
-![Rental Dashboard](images/rental_dashboard.png)
+![Rental Dashboard](image/Nigerian_Real_Estate_Dashboard.PNG)
 
 ---
 
