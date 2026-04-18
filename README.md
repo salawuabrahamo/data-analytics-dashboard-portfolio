@@ -15,11 +15,7 @@ The goal is to extract insights, identify trends, and support decision-making.
 - SQL (Data Analysis & Aggregation)
 - Power BI (Dashboard Visualization)
 - GitHub (Project Documentation)
-
----
-
-## 📂 Project Structure
-
+  
 ---
 
 ## 📊 Sales Dashboard Insights
