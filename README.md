@@ -70,7 +70,7 @@ SQL was used to:
 ---
 
 ## 🚀 How to Use
-1. Download the `.pbix` file from the `/powerbi` folder  
+1. Download the `.pbix` file from the `/pibx` folder  
 2. Open in Power BI Desktop  
 3. Interact with filters and visuals  
 
