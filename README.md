@@ -75,6 +75,11 @@ SQL was used to:
 3. Interact with filters and visuals  
 
 ---
+## Other Projects
+
+Projects: https://github.com/salawuabrahamo/nigerian-bank-customer-churn-analysis
 
 ## 📬 Contact
 Feel free to connect or reach out for collaboration!
+🔗 LinkedIn: https://linkedin.com/in/abraham-salawu-a9113215b  
+📧 Open to opportunities and collaborations
